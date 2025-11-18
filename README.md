@@ -14,7 +14,7 @@ Real-money Ludo betting game with USDT cryptocurrency integration.
 - 📱 RESTful APIs
 - 🔌 WebSocket for real-time updates
 - 👨‍💼 Admin panel
-- 📝 API documentation (Swagger)
+- 📝 API documentation
 
 ### 🔄 Coming Soon
 - 🪙 Real USDT integration (blockchain)
